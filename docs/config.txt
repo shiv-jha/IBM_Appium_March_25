@@ -1,0 +1,26 @@
+Operating System: Windows 11 (64-bit) 
+Processor: Intel Core i5/i7 
+RAM: Minimum 16GB 
+Storage: Minimum 60GB free space (SSD preferred)
+Software & Tools to Install
+Java Development Kit (JDK) 17
+Download from: Oracle JDK or Adoptium OpenJDK
+Set up JAVA_HOME environment variable
+Android Studio
+Download from: Android Developer Portal
+ Install necessary SDKs:
+after installing studio these all need to be done:
+Android SDK (latest version)
+SDK Tools (Android Emulator, Platform Tools, Build Tools)
+AVD (Android Virtual Device) with API Level 30 or above
+Appium Server
+Download & Install: Appium Desktop
+Install Node.js & NPM: Download here
+Eclipse
+Git
+
+for real device
+setting - about phone-build number(7 times click) -  developer options -  system developer option - usb debugging make on
+adb devices
+     - list of devices connected with laptop
+ change deviceName to the name displayed in adb list
